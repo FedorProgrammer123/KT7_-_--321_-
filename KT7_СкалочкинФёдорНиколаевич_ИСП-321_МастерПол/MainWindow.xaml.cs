@@ -23,6 +23,7 @@ namespace KT7_СкалочкинФёдорНиколаевич_ИСП_321_Мас
         public MainWindow()
         {
             InitializeComponent();
+            Classes.Manager.MainFrame = MainFrame;
         }
     }
 }
