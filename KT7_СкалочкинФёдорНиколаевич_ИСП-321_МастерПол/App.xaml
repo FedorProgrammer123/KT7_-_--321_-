@@ -1,0 +1,9 @@
+﻿<Application x:Class="KT7_СкалочкинФёдорНиколаевич_ИСП_321_МастерПол.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KT7_СкалочкинФёдорНиколаевич_ИСП_321_МастерПол"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
